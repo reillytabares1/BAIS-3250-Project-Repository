@@ -34,6 +34,19 @@ This repository investigates the relationship between crime and unemployment in 
 
 ##  Data Dictionary
 
-View sample in `data_dictionary/la_data_dictionary.csv`
+| Column Name            | Type     | Source              | Description                                                                 |
+|------------------------|----------|---------------------|-----------------------------------------------------------------------------|
+| Report ID              | Numeric  | la_crime2023        | Unique crime ID                                                             |
+| Arrest Date            | Date     | la_crime2023        | Date of crime                                                               |
+| Area ID                | Numeric  | la_crime2023        | Unique ID of Community                                                      |
+| Community              | Text     | both                | Neighborhood where the crime was committed                                  |
+| Age                    | Numeric  | la_crime2023        | Age of perpetrator                                                          |
+| Sex Code               | Text     | la_crime2023        | Sex of perpetrator                                                          |
+| Charge Group Description | Text   | la_crime2023        | Group of charge (e.g., homicide, burglary)                                  |
+| Charge Description     | Text     | la_crime2023        | Specifics of charge (e.g., Robbery → Carjacking)                            |
+| Address                | Text     | la_crime2023        | Street address where the crime occurred                                     |
+| Percent Unemployed     | Numeric  | unemployed_grouped  | Percent of population in the community that is unemployed                   |
+| Supervisor District    | Numeric  | unemployed_grouped  | District that the community is in (used for grouping, not analysis)         |
+
 
 

@@ -25,7 +25,7 @@ This repository investigates the relationship between crime and unemployment in 
 
 ##  Notebook
 
-`notebooks/data_wrangling_los_angeles.ipynb`: Contains data cleaning, merging, and initial analysis steps.
+`wmatthys_rtabares_project.ipynb`: Contains data cleaning, merging, and initial analysis steps.
 
 ##  Data Sources
 

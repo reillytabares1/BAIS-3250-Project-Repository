@@ -21,6 +21,7 @@ This repository investigates the relationship between crime and unemployment in 
 |--------|---------|
 | `data/raw/` | Original, unmodified data files |
 | `data/processed/` | Cleaned datasets used in analysis |
+| `data/report/` | Project Report pdf |
 | `notebooks/` | Jupyter notebooks for wrangling |
 | `data_dictionary/` | Data dictionary in CSV format |
 

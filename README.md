@@ -8,7 +8,8 @@ This template serves as a starting point for our data wrangling project. It incl
 2. [Folder Structure](#folder-structure)
 3. [Notebook](#notebook)
 4. [Data Sources](#data-sources)
-5. [Data Dictionary](#data-dictionary)
+5. [ProjectReport](#project-report)
+6. [Data Dictionary](#data-dictionary)
 
 ##  Overview
 
@@ -31,6 +32,10 @@ This repository investigates the relationship between crime and unemployment in 
 
 - LAPD Arrest Data: (https://catalog.data.gov/dataset/arrest-data-from-2020-to-present) (csv file uploaded under raw)
 - Unemployment Census Tracts: (https://data.lacounty.gov/datasets/lacounty::unemployment-census-tract/explore?location=33.733638%2C-118.298767%2C6.48&showTable=true) (used for scraping)
+
+##  Data Sources
+
+'`ProjectReport.pdf`: Contains report of entire project, found under data.
 
 ##  Data Dictionary
 

@@ -2,15 +2,6 @@
 
 This template serves as a starting point for our data wrangling project. It includes a folder structure, sample data dictionary, notebook, and links to our datasets.
 
-## Folder Structure
-
-| Folder | Purpose |
-|--------|---------|
-| `data/raw/` | Original, unmodified data files |
-| `data/processed/` | Cleaned datasets used in analysis |
-| `notebooks/` | Jupyter notebooks for wrangling |
-| `data_dictionary/` | Data dictionary in CSV format |
-
 ##  Table of Contents
 
 1. [Overview](#overview)
@@ -22,6 +13,15 @@ This template serves as a starting point for our data wrangling project. It incl
 ##  Overview
 
 This repository investigates the relationship between crime and unemployment in Los Angeles using public datasets. It’s intended as a reusable template and act as a project starting point.
+
+## Folder Structure
+
+| Folder | Purpose |
+|--------|---------|
+| `data/raw/` | Original, unmodified data files |
+| `data/processed/` | Cleaned datasets used in analysis |
+| `notebooks/` | Jupyter notebooks for wrangling |
+| `data_dictionary/` | Data dictionary in CSV format |
 
 ##  Notebook
 

@@ -31,7 +31,7 @@ This repository investigates the relationship between crime and unemployment in 
 
 ##  Data Sources
 
-- LAPD Arrest Data: (https://catalog.data.gov/dataset/arrest-data-from-2020-to-present) (csv file uploaded under raw)
+- LAPD Arrest Data: (https://catalog.data.gov/dataset/arrest-data-from-2020-to-present) (csv file uploaded under raw. Only a sample, original file was too large to upload.)
 - Unemployment Census Tracts: (https://data.lacounty.gov/datasets/lacounty::unemployment-census-tract/explore?location=33.733638%2C-118.298767%2C6.48&showTable=true) (used for scraping)
 
 ##  Data Sources
